@@ -1,0 +1,14 @@
+{
+  "plugins": {},
+  "filters": {},
+  "rules": {
+    "ja-no-abusage": true,
+    "ja-no-redundant-expression": true,
+    "max-kanji-continuous-len": true,
+    "max-ten": true,
+    "no-double-negative-ja": true,
+    "@textlint-ja/textlint-rule-no-synonyms": true,
+    "textlint-rule-prefer-tari-tari": true,
+    "textlint-rule-ja-hiragana-hojodoushi": true
+  }
+}
