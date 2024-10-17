@@ -1,6 +1,7 @@
 {
   "scripts": {
-    "lint": "textlint docs"
+    "lint": "textlint docs",
+    "fix": "textlint --fix docs"
   },
   "devDependencies": {
     "@textlint-ja/textlint-rule-no-synonyms": "^1.3.0",
